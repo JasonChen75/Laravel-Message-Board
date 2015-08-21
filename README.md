@@ -1,9 +1,9 @@
 # Laravel-Message-Board
   A message board with laravel framework
-    with user login and leave message
-         delete and edit message content
-         show all the online user
-         send message to the particular user
+    with user login and leave message 
+         delete and edit message content 
+         show all the online user 
+         send message to the particular user 
          
     
 
