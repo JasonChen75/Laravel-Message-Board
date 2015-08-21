@@ -1,9 +1,9 @@
 # Laravel-Message-Board
   A message board with laravel framework
     with user login and leave message </br>
-         delete and edit message content 
-         show all the online user 
-         send message to the particular user 
+         delete and edit message content </br>
+         show all the online user </br>
+         send message to the particular user </br>
          
     
 
@@ -17,6 +17,6 @@
   10.0.21-MariaDB
 
 ##FrameWork
-  laravel 5
+  laravel 5</br>
   bootstrap
 
