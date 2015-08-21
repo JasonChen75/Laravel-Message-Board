@@ -11,7 +11,9 @@
   Ubuntu 14.04.3 LTS (GNU/Linux 3.13.0-46-generic x86_64)
   
   Apache/2.4.7
+  
   PHP 5.5.9
+  
   10.0.21-MariaDB
 
 ##FrameWork
