@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateUsersTable extends Migration
+class CreateSaveComtentTable extends Migration
 {
     /**
      * Run the migrations.
@@ -15,8 +15,8 @@ class CreateUsersTable extends Migration
         Schema::create('MessageBoard', function (Blueprint $table) {
             $table->increments('id');
             $table->timestamps();
-            $table->string('name') ;
-            $table->string('content') ;
+            $table->string('name');
+            $table->string('content');
         });
     }
 
