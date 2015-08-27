@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateSaveComtentTable extends Migration
+class CreateMessageBoardTable extends Migration
 {
     /**
      * Run the migrations.
