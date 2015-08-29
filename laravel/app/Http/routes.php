@@ -11,12 +11,14 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/', function(){
+  return view('login');
 });
 
 Route::get('/tina', function(){
   return 'tina';
 });
+
+
 
 Route::resource('/message_access', 'MessageAccessController') ;
